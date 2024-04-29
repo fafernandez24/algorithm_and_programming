@@ -1,4 +1,4 @@
-<h1 aling = "center"> 👨‍💻ALGORITHMS AND PROGRAMMING </h1>
+<h1 text-aling = "center"> 👨‍💻ALGORITHMS AND PROGRAMMING </h1>
 
 <img src = "https://pin.it/2VyO997l5">
 
