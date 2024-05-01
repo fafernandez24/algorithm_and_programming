@@ -18,7 +18,7 @@ podríamos considerar nuestro "caldo de cultivo",
 en la cual mueren y nacen células. Cada celda
 de este caldo podrá contener una célula viva o
 estar vacía. </p>
-
+<br>
 <p> - El estado del caldo evoluciona a lo largo de
 unidades de tiempo discretas o turnos. Cada
 turno representa una generación en la vida. El
@@ -27,5 +27,5 @@ para calcular el estado de las mismas en la
 generación siguiente. Todas las células se
 actualizan simultáneamente en cada
 generación.</p>
-
+<br>
 <p> - Una nueva generación será la entrada para volver a aplicar las reglas, y así sucesivamente.</p>
