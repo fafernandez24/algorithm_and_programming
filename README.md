@@ -1,7 +1,7 @@
 <h1 align = "center"> 🎈ALGORITHM AND PROGRAMMING PROJECT </h1>
 <h2 align = "center"> 🧫AUTOMATA CELULAR ALIVE (ACA) </h2>
 
-<h3>Description</h3>
+<h3>👀Description</h3>
 
 <p> - La evolución de la vida tiene una variedad de patrones reconocidos que
 provienen de determinadas posiciones iniciales. La vida es un ejemplo de
