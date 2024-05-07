@@ -68,7 +68,6 @@ def AgregarCelula(tablero, vertical, horizontal):
     vertical -= 1;
     horizontal -=1;
 
-
     if (tablero[vertical][horizontal] == 1):
         return print(Fore.RED + f"ERROR, la posición {tablero[vertical][horizontal]} ya esta ocupada.");
     else:
