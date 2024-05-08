@@ -141,7 +141,6 @@ def MenuOpciones(tablero):
 
     elif( opcion == 3):
         print(Fore.MAGENTA + "¡Hasta la vista, baby!");
-        aca = True;
         return opcion;
 
 # PROGRAMA PRINCIPAL
